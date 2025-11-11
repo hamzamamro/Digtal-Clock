@@ -1,0 +1,22 @@
+body{
+    background-color: #473472;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.clock-title{
+    color: #87BAC3;
+    font-size: 4rem;
+}
+
+.clock{
+    background-color: rgba(0, 0, 0, 0.356);
+    font-size: 4rem;
+    padding: 20px;
+    color: #D6F4ED;
+    border-radius: 5%;
+}
